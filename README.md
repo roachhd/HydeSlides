@@ -23,7 +23,7 @@ A chapter consists of a `_posts/<yourchapter>` folder and markdown files. Each m
 
 ### Notes
 
-Speaker notes, only shown on the "split" screen, are displayed by pressing the S key. They are included on slides in an HTML wrapped element with `class="notes"`:
+Speaker notes, only shown on the "split" screen, are displayed by pressing the S key. They are included on slides in an HTML wrapped element with `class="notes"`: 
 
 	{% include hydeslides/notes-open %}
 	  Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them
